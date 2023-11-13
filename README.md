@@ -24,8 +24,8 @@ This script simulates an investment scenario with initial money subject to rando
 - Standard Deviation: 82,856,832.86
 - Risk-Reward Ratio: 75,611.78
 
-Following is graph generated from simulation:
-![Simulation Result](figure.png).
+Following is the graph generated from the simulation:
+![Simulation Result](Figure_1.png).
 
 ## Usage
 Requires Python with numpy and matplotlib libraries. Run the script in a Python environment to see console output and the graphical plot.
